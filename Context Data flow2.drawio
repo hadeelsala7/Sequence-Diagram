@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T12:38:54.092Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="8S21ynYw6F4dTdDJ15KY" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T12:40:34.347Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Szyx7-dVnb_9iGlhAPqc" version="13.10.6" type="github">
   <diagram id="wbHOa0zWuBp6wvHqzHT6" name="Page-1">
     <mxGraphModel dx="1019" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,19 +89,19 @@
         <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-18" value="Order the book from the card" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="165" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-19" value="Approve Book Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-19" value="Approve to sell&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="350" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-20" value="Approve Picking order price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-20" value="Approve checkout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="290" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-22" value="Send Request to buy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-23" value="Order Done" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-23" value="Sell Approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-24" value="Approve Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-24" value="checkout done" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ms1lUYnK0V4n1l_HWLxZ-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
